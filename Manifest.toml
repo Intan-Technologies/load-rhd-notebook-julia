@@ -49,6 +49,11 @@ git-tree-sha1 = "4d4f72691933d5b6ee1ff20e27a102c3ae99d123"
 uuid = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 version = "0.3.9"
 
+[[Grisu]]
+git-tree-sha1 = "03d381f65183cb2d0af8b3425fde97263ce9a995"
+uuid = "42e2da0e-8278-4e71-bc24-59509adca0fe"
+version = "1.0.0"
+
 [[JSON]]
 deps = ["Dates", "Mmap", "Parsers", "Unicode"]
 git-tree-sha1 = "81690084b6198a2e1da36fcfda16eeca9f9f24e4"
